@@ -1,4 +1,0 @@
-LolimsaWeb
-==========
-
-Proyecto Web Lolimsa
